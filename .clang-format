@@ -1,0 +1,9 @@
+Language: Cpp
+BasedOnStyle: Google
+TabWidth: 4
+IndentWidth: 4
+AccessModifierOffset: -4
+AllowShortFunctionsOnASingleLine: None
+ColumnLimit: 120
+BreakConstructorInitializers: BeforeComma
+PackConstructorInitializers: Never
